@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Minimum Overlap Coverage Project
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Data Structure Analysis CSCI 315
+-   **Grade:** A+
+-   **Language(s):** C++
+-   **Source Code Repository:** [Minimum Overlap Coverage](project3/src)  
+    (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

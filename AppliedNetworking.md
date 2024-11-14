@@ -11,38 +11,37 @@ Personal Website
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The goal of this project was to use the Apache Server Product to host a server webpage. After which I had to make a presentation on the process and what I learned.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Install Apache24 through the following link: https://www.apachelounge.com/download/
+Make sure the index file is in the htdocs folder
+In the command prompt, navigate to Apache24/bin and type the following command: httpd
+Go to localhost via typing 127.0.0.1 in a browser of your choice
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+As seen in figure 1, the website has a couple images and links to click on. Upon clicking on the "Video Walkthrough of Page and How It Was Made" the website would take you to a youtube video of how the website was made; however, that video has since been taken down. Figure 2 showcases what happens when clicking upon the Youtube link. Figure 3 showcases what happens when you click upon the Instagram link. Figure 4 showcases what happens when you click upon the Facebook link. Figure 5 showcases what happens when you click upon the Twitch link.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/AppliedNetworking3.PNG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/AppliedNetworking4.jpg)  
+Fig 2. showcases what happens when clicking upon the Youtube link.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/AppliedNetworking5.jpg)  
+Fig 3. showcases what happens when you click upon the Instagram link.
+
+![screenshot](images/AppliedNetworking6.jpg)  
+Fig 4. showcases what happens when you click upon the Facebook link.
+
+![screenshot](images/AppliedNetworking7.jpg)  
+Fig 5. showcases what happens when you click upon the Twitch link.
+
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Access to the video that was taken down will be available in the Github.
 
 [Back to Portfolio](./)

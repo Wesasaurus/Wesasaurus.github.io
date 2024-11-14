@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/Cybersecurity Powerpoint.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/Cybersecurity Powerpoint 2.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity
+- **Grade:** A
 
 ---
 

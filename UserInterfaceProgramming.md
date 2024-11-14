@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Ruby on Rails 5K Charity
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** User Interface Programming
+-   **Grade:** A
+-   **Language(s):** Ruby on Rails
+-   **Source Code Repository:** [Ruby on Rails 5K Charity (Fix Link)](https://guides.github.com/features/mastering-markdown/)  
+    (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

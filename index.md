@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Personal Website | CSCI 332](AppliedNetworking.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/AppliedNetworking3.PNG)
 
 ---
 ### [Ruby on Rails 5K Charity | CSCI 334](UserInterfaceProgramming.md)

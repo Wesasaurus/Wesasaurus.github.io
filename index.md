@@ -7,22 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Minimum Coverage Overlap | CSCI 315](DataStructureAnalysis)
+### [Minimum Coverage Overlap | CSCI 315](DataStructureAnalysis.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 325](ObjectOrientedProgramming)
+### [Project 2 Title | CSCI 325](ObjectOrientedProgramming.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 332](AppliedNetworking)
+### [Project 3 Title | CSCI 332](AppliedNetworking.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 334](UserInterfaceProgramming)
+### [Project 4 Title | CSCI 334](UserInterfaceProgramming.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 

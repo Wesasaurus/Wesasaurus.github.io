@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 325](ObjectOrientedProgramming.md)
+### [Choose Your Own Adventure Story Game | CSCI 325](ObjectOrientedProgramming.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 332](AppliedNetworking.md)
+### [Personal Website | CSCI 332](AppliedNetworking.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 334](UserInterfaceProgramming.md)
+### [Ruby on Rails 5K Charity | CSCI 334](UserInterfaceProgramming.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 

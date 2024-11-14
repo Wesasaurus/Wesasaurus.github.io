@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Choose Your Own Adventure Story Game
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Object Oriented Programming
+-   **Grade:** A
+-   **Language(s):** Java
+-   **Source Code Repository:** [Choose Your Own Adventure](https://github.com/Wesasaurus/CSCI-325-Fall23-AdventureStoryGame)  
+    (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

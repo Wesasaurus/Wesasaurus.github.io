@@ -25,7 +25,7 @@ Go to localhost via typing 127.0.0.1 in a browser of your choice
 
 ## UI Design
 
-As seen in figure 1, the website has a couple images and links to click on. Upon clicking on the "Video Walkthrough of Page and How It Was Made" the website would take you to a youtube video of how the website was made; however, that video has since been taken down. Figure 2 showcases what happens when clicking upon the Youtube link. Figure 3 showcases what happens when you click upon the Instagram link. Figure 4 showcases what happens when you click upon the Facebook link. Figure 5 showcases what happens when you click upon the Twitch link.
+As seen in figure 1, the website has a couple images and links to click on. Upon clicking on the "Video Walkthrough of Page and How It Was Made" the website would take you to a youtube video of how the website was made; however, that video has since been taken down. Figure 2-5 showcases what happens when clicking upon specific links such as the Youtube link. The final image animated image is a clickable video thumbnail that will bring you to one of the videos I made upon clicking it.
 
 ![screenshot](images/AppliedNetworking3.PNG)  
 Fig 1. The launch screen

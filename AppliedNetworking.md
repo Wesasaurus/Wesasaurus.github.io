@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Personal Website
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Applied Networking 
+-   **Grade:** A
+-   **Language(s):** HTML
+-   **Source Code Repository:** [Personal Website](https://github.com/Wesasaurus/Applied-Networking-CSCI-332)  
+    (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

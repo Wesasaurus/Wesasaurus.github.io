@@ -1,10 +1,10 @@
-Portfolio
+![image](https://github.com/user-attachments/assets/5a554e40-d03d-48b4-b40c-cc93206794f6)Portfolio
 =========
 
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,33 +31,33 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Important Notification or a Disruptive Distraction](/pdf/Procedural Programming Ethics Paper.docx)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** Procedural Programming
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethical Challenges in Cybersecurity](/pdf/Object Oriented Ethics Paper.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Object Oriented Programming
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Ethics of Copied Code](/pdf/Survey of Scripting Ethics Essay.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Survey of Scripting Languages
+-   **Grade:** A
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/Cybersecurity Powerpoint.pptx)
+### [Trends in Cyber Crime](/pdf/Cybersecurity Powerpoint.pptx)
 
 - **Class:** Principles of Cybersecurity
 - **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/Cybersecurity Powerpoint 2.pptx)
+### [Automotive Information System Security Vulnerabilities](/pdf/Cybersecurity Powerpoint 2.pptx)
 
 - **Class:** Principles of Cybersecurity
 - **Grade:** A

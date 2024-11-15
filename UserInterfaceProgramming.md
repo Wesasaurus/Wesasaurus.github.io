@@ -11,7 +11,7 @@ Ruby on Rails 5K Charity
 
 ## Project description
 
-This project was made with the goal of producing a functioning website that could in theory be used by a 5k Charity foundation. The project would include multiple features such as pages with information on the race, places to login, different charts and information showing depending on if a racer is logged in.
+This is a group project made with the goal of producing a functioning website that could in theory be used by a 5k Charity foundation. The project includes multiple features such as pages with information on the race, places to login, different charts and information showing depending on if a racer is logged in.
 
 ## How to compile and run the program
 

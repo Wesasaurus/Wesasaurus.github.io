@@ -4,7 +4,8 @@ Personal Website
 ===============
 
 -   **Class:** Applied Networking 
--   **Grade:** A
+-   **Class Grade:** A
+-   **Project Grade:** A
 -   **Language(s):** HTML
 -   **Source Code Repository:** [Personal Website](https://github.com/Wesasaurus/Applied-Networking-CSCI-332)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)

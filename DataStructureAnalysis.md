@@ -4,7 +4,8 @@ Minimum Overlap Coverage Project
 ===============
 
 -   **Class:** Data Structure Analysis CSCI 315
--   **Grade:** 125/100
+-   **Class Grade:** C
+-   **Project Grade:** 125/100
 -   **Language(s):** C++
 -   **Source Code Repository:** [Minimum Overlap Coverage](https://github.com/Wesasaurus/CSCI-315-2024-Spring/tree/master/project3)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)

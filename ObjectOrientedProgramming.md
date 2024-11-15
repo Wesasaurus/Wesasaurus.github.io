@@ -4,7 +4,8 @@ Choose Your Own Adventure Story Game
 ===============
 
 -   **Class:** Object Oriented Programming
--   **Grade:** A
+-   **Class Grade:** A
+-   **Project Grade:** A
 -   **Language(s):** Java
 -   **Source Code Repository:** [Choose Your Own Adventure](https://github.com/Wesasaurus/CSCI-325-Fall23-AdventureStoryGame)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)

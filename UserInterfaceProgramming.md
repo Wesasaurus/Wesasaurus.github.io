@@ -70,4 +70,9 @@ Fig 4. The settings page and account options. Allows user to change profile pict
 ![screenshot](images/UserInterface9.png)  
 Fig 9. The Users page. Lets racers see their teammates. Admins can see all teams.
 
+## 3. Additional Considerations
+
+Heres access to the github release:
+https://github.com/User-interface-Programming-Class/UserInterfaceFinal/releases/tag/v1.0
+
 [Back to Portfolio](./)

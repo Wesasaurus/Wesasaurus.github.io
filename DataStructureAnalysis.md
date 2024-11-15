@@ -45,4 +45,9 @@ Fig 4. Example output of make medium-timings
 ![screenshot](images/CSCI315image5.png)  
 Fig 5. Example output of make large-timings
 
+## 3. Additional Considerations
+
+Heres access to the github release:
+https://github.com/User-interface-Programming-Class/UserInterfaceFinal/releases/tag/v1.0
+
 [Back to Portfolio](./)

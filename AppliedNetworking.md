@@ -47,6 +47,7 @@ Fig 5. showcases what happens when you click upon the Twitch link.
 ## 3. Additional Considerations
 
 Access to the video that was taken down will be available in the Github.
+
 Heres access to the github release: https://github.com/Wesasaurus/Applied-Networking-CSCI-332/releases/tag/v1.0
 
 [Back to Portfolio](./)

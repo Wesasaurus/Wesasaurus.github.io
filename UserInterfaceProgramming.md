@@ -15,14 +15,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Make sure you have a version of Ubuntu installed to start the app
 
-```bash
-cd ./project
-python setup.py
+To get started with the app, clone the repo and then install the needed gems:
+
+```
+$ gem install bundler -v 2.3.14
+$ bundle _2.3.14_ config set --local without 'production'
+$ bundle _2.3.14_ install
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Next, migrate the database:
+
+```
+$ rails db:migrate
+```
+
+Run the app in the local server:
+
+```
+$ rails server
+```
+Once rails server is entered, navigate to 127.0.0.1:3000 on your prefered browser or clink the link shown on the rails server command.
 
 ## UI Design
 

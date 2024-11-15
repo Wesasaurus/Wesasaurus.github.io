@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Minimum Coverage Overlap | CSCI 315](DataStructureAnalysis.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/CSCI315image5.png)
 
 ---
 ### [Choose Your Own Adventure Story Game | CSCI 325](ObjectOrientedProgramming.md)

@@ -30,7 +30,7 @@ Since this project was a group project, each member did a major path. You will b
 Fig 1. The launch screen
 
 ![screenshot](images/Object7.PNG)  
-Fig 2. The launch screen
+Fig 2. The start of my choose your own adventure routes
 
 ![screenshot](images/Object2.PNG)  
 Fig 3. Example of a Locked Door

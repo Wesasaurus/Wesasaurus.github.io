@@ -29,19 +29,19 @@ After compiling, there are a multitude of commands you can run to test the progr
 
 The following screenshots are the results of using the commands to run the program.
 
-![screenshot](images/CSCI 315 image.PNG)  
+![screenshot](images/CSCI 315 image.png)  
 Fig 1. Example output of make run, small30, med30, and large30
 
-![screenshot](images/CSCI 315 image2.PNG)  
+![screenshot](images/CSCI 315 image.png)  
 Fig 2. Example output of make large 50 and small100
 
-![screenshot](images/CSCI 315 image3.PNG)  
+![screenshot](images/CSCI 315 image3.png)  
 Fig 3. Example output of make small-timings
 
-![screenshot](images/CSCI 315 image4.PNG)  
+![screenshot](images/CSCI 315 image4.png)  
 Fig 3. Example output of make medium-timings
 
-![screenshot](images/CSCI 315 image5.PNG)  
+![screenshot](images/CSCI 315 image5.png)  
 Fig 3. Example output of make large-timings
 
 [Back to Portfolio](./)

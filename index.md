@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Ruby on Rails 5K Charity | CSCI 334](UserInterfaceProgramming.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Userinterface1.png)
 
 ---
 

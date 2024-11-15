@@ -33,7 +33,7 @@ The following screenshots are the results of using the commands to run the progr
 Fig 1. Example output of make run, small30, med30, and large30
 
 ![screenshot](images/CSCI315image2.png)  
-Fig 2. Example output of make large 50 and small100
+Fig 2. Example output of make large50 and small100
 
 ![screenshot](images/CSCI315image3.png)  
 Fig 3. Example output of make small-timings

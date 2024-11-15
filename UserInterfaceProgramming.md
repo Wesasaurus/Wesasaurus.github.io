@@ -4,7 +4,8 @@ Ruby on Rails 5K Charity
 ===============
 
 -   **Class:** User Interface Programming
--   **Grade:** A
+-   **Class Grade:** B
+-   **Project Grade:** A
 -   **Language(s):** Ruby on Rails
 -   **Source Code Repository:** [Ruby on Rails 5K Charity](https://github.com/User-interface-Programming-Class/UserInterfaceFinal)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)

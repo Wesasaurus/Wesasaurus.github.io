@@ -34,17 +34,20 @@ Ethics Papers
 ### [Important Notification or a Disruptive Distraction](/pdf/Procedural Programming Ethics Paper.docx)
 
 -   **Class:** Procedural Programming
--   **Grade:** A
+-   **Class Grade:** B+
+-   **Assignment Grade:** A
 
 ### [Ethical Challenges in Cybersecurity](/pdf/Object Oriented Ethics Paper.docx)
 
 -   **Class:** Object Oriented Programming
--   **Grade:** A
+-   **Class Grade:** A
+-   **Assignment Grade:** A
 
 ### [The Ethics of Copied Code](/pdf/Survey of Scripting Ethics Essay.docx)
 
 -   **Class:** Survey of Scripting Languages
--   **Grade:** A
+-   **Class Grade:** A
+-   **Assignment Grade:** A
 
 ---
 
@@ -54,13 +57,15 @@ Presentations
 ### [Trends in Cyber Crime](/pdf/Cybersecurity Powerpoint.pptx)
 
 - **Class:** Principles of Cybersecurity
-- **Grade:** A
+- **Class Grade:** B
+- **Assignment Grade:** A
 
 
 ### [Automotive Information System Security Vulnerabilities](/pdf/Cybersecurity Powerpoint 2.pptx)
 
 - **Class:** Principles of Cybersecurity
-- **Grade:** A
+- **Class Grade:** B
+- **Assignment Grade:** A
 
 ---
 

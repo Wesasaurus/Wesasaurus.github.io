@@ -11,38 +11,41 @@ Choose Your Own Adventure Story Game
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a choose your own adventure game where you can choose different paths to get different outcomes or experience different things along each path. 
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Make sure you have Apache Netbeans Installed as it is necessary to run the program.
 
-```bash
-cd ./project
-python setup.py
-```
+After installing Apache Netbeans, click open project and click on choose your own adventure.
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Once the project opens press Run project at the top.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Since this project was a group project, each member did a major path. You will be greeted with the game name and a choice (figure 1). In order to reach the path I did, once you open the program pick the following choices: A, B, A, A, and D. After which you will get into my part of the game. My game consists of multiple features. One is locked doors (figure 2). You will have to find keys throughout the house in order to unlock doors (figure 3). Their is also puzzles. I won't show the solutions to the puzzle but I will include a screenshot of one of them (figure 6). There is also code to ensure valid input (figure 4). You can also use one of the inputs to inspect rooms to gain more detail about them (figure 5). 
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Object1.PNG)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Object2.PNG)  
+Fig 2. Example of a Locked Door
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Object3.PNG)  
+Fig 3. Example of finding a key to a room
+
+![screenshot](images/Object4.PNG)  
+Fig 4. What happens when invalid input occurs
+
+![screenshot](images/Object5.PNG)  
+Fig 5. Example of inspecting a room
+
+![screenshot](images/Object6.PNG)  
+Fig 6. Example of a puzzle to solve in the game
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+There are other paths not made by me, as this was a collaborative game; however, after the into decisions of A, B, A, A, D you reach my part of the game.
 
 [Back to Portfolio](./)

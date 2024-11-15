@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Choose Your Own Adventure Story Game | CSCI 325](ObjectOrientedProgramming.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Object1.PNG)
 
 ---
 ### [Personal Website | CSCI 332](AppliedNetworking.md)

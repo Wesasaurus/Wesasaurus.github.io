@@ -52,4 +52,6 @@ Fig 7. Example of a puzzle to solve in the game
 
 There are other paths not made by me, as this was a collaborative game; however, after the into decisions of A, B, A, A, D you reach my part of the game.
 
+Here is the link to the release: https://github.com/Wesasaurus/CSCI-325-Fall23-AdventureStoryGame/releases/tag/V1.0
+
 [Back to Portfolio](./)

@@ -40,23 +40,33 @@ Once rails server is entered, navigate to 127.0.0.1:3000 on your prefered browse
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Going through this program there is a few functions that can be seen. As seen in figures 3 - 5, and figure 8, there are fields that allow user input. This user input can be used for many things such as donating money (figure 3) or creating an account (figure 5). Other features include popups for when inputs are not properly entered (figure 6). There are also links to other pages used throughout as shown when you click about (figure 2), or the users page after logging in (figure 7 and figure 9). You also are only shown your teammates in the users page.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/UserInterface1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/UserInterface2.png)  
+Fig 2. Navigating to the About Page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/UserInterface3.png)  
+Fig 3. The Donate page and its field of input
 
-## 3. Additional Considerations
+![screenshot](images/UserInterface4.png)  
+Fig 4. The Login page and its field of input
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![screenshot](images/UserInterface5.png)  
+Fig 5. The Sign Up page and its field of input
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/UserInterface6.png)  
+Fig 6. What happens when invalid input occurs
+
+![screenshot](images/UserInterface7.png)  
+Fig 7. The page that a user is directed to after successful login or account creation
+
+![screenshot](images/UserInterface8.png)  
+Fig 4. The settings page and account options. Allows user to change profile picture and other information.
+
+![screenshot](images/UserInterface9.png)  
+Fig 9. The Users page. Lets racers see their teammates. Admins can see all teams.
 
 [Back to Portfolio](./)

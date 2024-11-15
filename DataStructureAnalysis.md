@@ -15,12 +15,10 @@ The goal of this project is to create a program that will find the Minimum Overl
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+First, Ubuntu 22.04.3 LTS must be installed on the device for the program to run.
+Upon installing Ubuntu you will need to get the repository made within Ubuntu.
+After which you will go to the project 3 folder.
+Use make min-overlap-test to compile the program.
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 

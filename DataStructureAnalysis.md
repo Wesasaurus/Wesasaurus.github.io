@@ -32,7 +32,7 @@ The following screenshots are the results of using the commands to run the progr
 ![screenshot](images/CSCI315image.png)  
 Fig 1. Example output of make run, small30, med30, and large30
 
-![screenshot](images/CSCI315image.png)  
+![screenshot](images/CSCI315image2.png)  
 Fig 2. Example output of make large 50 and small100
 
 ![screenshot](images/CSCI315image3.png)  

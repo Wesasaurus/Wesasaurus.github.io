@@ -7,7 +7,7 @@ Minimum Overlap Coverage Project
 -   **Class Grade:** C
 -   **Project Grade:** 125/100
 -   **Language(s):** C++
--   **Source Code Repository:** [Minimum Overlap Coverage](https://github.com/Wesasaurus/CSCI-315-2024-Spring/tree/master/project3)  
+-   **Source Code Repository:** [Minimum Overlap Coverage](https://github.com/Wesasaurus/Project-3)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -47,6 +47,6 @@ Fig 5. Example output of make large-timings
 
 ## 3. Additional Considerations
 
-Heres access to the github release:
+Heres access to the github release: https://github.com/Wesasaurus/Project-3/releases/tag/V1.0
 
 [Back to Portfolio](./)

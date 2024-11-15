@@ -15,34 +15,33 @@ The goal of this project is to create a program that will find the Minimum Overl
 
 ## How to compile and run the program
 
-```
 First, Ubuntu 22.04.3 LTS must be installed on the device for the program to run.
-Upon installing Ubuntu you will need to get the repository made within Ubuntu.
-After which you will go to the project 3 folder.
-Use make min-overlap-test to compile the program.
-```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Upon installing Ubuntu you will need to get the repository made within Ubuntu.
+
+After which you will go to the project 3 folder.
+
+Use make min-overlap-test to compile the program.
+
+After compiling, there are a multitude of commands you can run to test the program. These include: make run, make small30, make med30, make large30, make large50, make small100, make small-timings, make medium-timings, and make large-timings.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The following screenshots are the results of using the commands to run the program.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/CSCI 315 Image.jpg)  
+Fig 1. Example output of make run, small30, med30, and large30
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/CSCI 315 Image2.jpg)  
+Fig 2. Example output of make large 50 and small100
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/CSCI 315 Image3.jpg)  
+Fig 3. Example output of make small-timings
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/CSCI 315 Image4.jpg)  
+Fig 3. Example output of make medium-timings
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/CSCI 315 Image5.jpg)  
+Fig 3. Example output of make large-timings
 
 [Back to Portfolio](./)

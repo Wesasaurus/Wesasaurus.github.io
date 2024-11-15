@@ -6,12 +6,12 @@ Ruby on Rails 5K Charity
 -   **Class:** User Interface Programming
 -   **Grade:** A
 -   **Language(s):** Ruby on Rails
--   **Source Code Repository:** [Ruby on Rails 5K Charity (Fix Link)](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Ruby on Rails 5K Charity](https://github.com/User-interface-Programming-Class/UserInterfaceFinal)  
     (Please [email me](mailto:wlcassel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project was made with the goal of producing a functioning website that could in theory be used by a 5k Charity foundation. The project would include multiple features such as pages with information on the race, places to login, different charts and information showing depending on if a racer is logged in.
 
 ## How to compile and run the program
 
